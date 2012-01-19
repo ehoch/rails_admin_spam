@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.name        = "rails_admin_spam"
   s.version     = RailsAdminSpam::VERSION
   s.authors     = ["Eric Hochberger"]
-  s.email       = ["eric@mediavine.com"]
-  s.homepage    = "http://www.mediavine.com"
+  s.email       = "eric@mediavine.com"
+  s.homepage    = "https://github.com/mediavine/rails_admin_spam"
   s.summary     = "Spam Action in Rails Admin."
   s.description = "Spam Action in Rails Admin."
 

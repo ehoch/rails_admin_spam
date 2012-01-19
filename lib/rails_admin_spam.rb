@@ -18,10 +18,6 @@ module RailsAdmin
         register_instance_option :bulkable? do        
           true
         end
-
-        register_instance_option :authorization_key do
-          :spam
-        end
                 
         register_instance_option :controller do
           Proc.new do

@@ -1,3 +1,5 @@
 = RailsAdminSpam
 
-This project rocks and uses MIT-LICENSE.
+This project rocks and uses MIT-LICENSE.  It's super exciting and adds the ability to call a spam action on objects in [rails_admin]
+
+[rails_admin] https://github.com/sferik/rails_admin
