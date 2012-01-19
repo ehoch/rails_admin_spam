@@ -34,10 +34,7 @@ module RailsAdmin
               flash[:success] = "Single spammed."
             end
             
-            #flash[:error] = t("admin.flash.error", :name => pluralize(params[:bulk_ids].size, @model_config.label), :action => t("admin.actions.delete.done")) unless not_destroyed.empty?
-
             redirect_to back_or_index
-
           end
         end
                 
