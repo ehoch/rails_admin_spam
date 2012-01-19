@@ -1,0 +1,11 @@
+
+en:
+  admin:
+    actions:
+      spam:
+        title: "Spam"
+        menu: "Spam"
+        breadcrumb: "Spam"
+        link: "Spam"
+        bulk_link: "Spam selected %{model_label_plural}"
+        done: "Spamed"
